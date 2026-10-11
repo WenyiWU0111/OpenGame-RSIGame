@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Test output
+output/
+outputs/
+output_gamedoctor_*/
+assets/
+
+# Shared node_modules cache (agent-test/prompts/custom.md Phase 1 Step 5)
+.node_modules_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+# backups of .env are still credentials -- `.env.bak_assetwork`
+# was sitting untracked in the tree, one `git add -A` from being published
+.env.*
+*.env.bak*
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+tmp/
+temp/
+
+# Vitest
+coverage/
+.vitest/
+
+# flock file for the knowledge store -- runtime state, never versioned
+gamedoctor/verifier/knowledge/.lock

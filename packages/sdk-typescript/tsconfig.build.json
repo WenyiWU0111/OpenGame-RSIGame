@@ -1,0 +1,25 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    // Without this, tsc refuses with TS5011: it infers the common source
+    // directory and will not emit until told where the output layout should be
+    // rooted. The declaration step is the FIRST thing `scripts/build.js` runs
+    // and the only one not wrapped in a try/catch, so this failure takes the
+    // whole build with it -- including the esbuild passes that produce the
+    // runtime bundle, which is what actually ships.
+    //
+    // The layout it names is the one that already exists: sources are under
+    // ./src and nothing outside it is compiled.
+    "rootDir": "./src",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "declaration": true,
+    "declarationMap": false,
+    "sourceMap": false,
+    "emitDeclarationOnly": true,
+    "removeComments": false
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "dist", "test", "**/*.test.ts", "**/*.spec.ts"]
+}

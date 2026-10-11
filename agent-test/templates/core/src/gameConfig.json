@@ -1,0 +1,71 @@
+{
+  "screenSize": {
+    "width": {
+      "value": 1152,
+      "type": "number",
+      "description": "Game width in pixels"
+    },
+    "height": {
+      "value": 768,
+      "type": "number",
+      "description": "Game height in pixels"
+    }
+  },
+  "debugConfig": {
+    "debug": {
+      "value": false,
+      "type": "boolean",
+      "description": "Enable debug mode"
+    }
+  },
+  "renderConfig": {
+    "pixelArt": {
+      "value": true,
+      "type": "boolean",
+      "description": "Enable pixel art rendering"
+    }
+  },
+  "difficultyConfig": {
+    "nLevels": {
+      "value": 3,
+      "type": "number",
+      "description": "Number of levels. Code MUST read this (do not hardcode the level count)."
+    },
+    "enemyCount": {
+      "value": 4,
+      "type": "number",
+      "description": "Enemies present at once in a level (level 1 baseline). Spawn loops MUST read this, not a literal."
+    },
+    "enemySpeedFactor": {
+      "value": 0.8,
+      "type": "number",
+      "description": "Enemy speed as a fraction of player speed."
+    },
+    "hazardCount": {
+      "value": 3,
+      "type": "number",
+      "description": "Static hazards (spikes/pits/traps) per level. Hazard-placement loops MUST read this."
+    },
+    "healthPickups": {
+      "value": 1,
+      "type": "number",
+      "description": "Health pickups per level."
+    },
+    "timeLimitSec": {
+      "value": 120,
+      "type": "number",
+      "description": "Per-level time limit in seconds (0 = no limit). The level timer MUST read this."
+    }
+  },
+  "uiPalette": {
+    "_comment": "Fixed-UI-chrome theme. Set these from the game's visual_mood (hex strings). The chrome owns layout; these only recolor it. Contrast is preserved regardless.",
+    "bg": "#0f1420",
+    "accent": "#6ee7ff",
+    "ink": "#eef2fb",
+    "good": "#7cf29c",
+    "warn": "#ffd54a",
+    "danger": "#ff6b6b",
+    "gold": "#ffe08a",
+    "panel": "#161a26"
+  }
+}

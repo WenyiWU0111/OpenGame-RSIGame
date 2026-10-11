@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Cute & Fluffy",
+    "fragment": "adorable, pink and pastel — soft round characters, fluffy guinea-pig energy",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.15,
+    "material": "soft brushed fur, downy pile, gentle colour drift, no hard edges",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Candy Land",
+    "fragment": "a candy wonderland — lollipop swirls, jelly blobs, liquorice ropes and sugar-bright colors",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.1,
+    "material": "glossy boiled-sugar sheen, swirled stripes, sprinkle flecks, sticky highlights",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Rainbow Pop",
+    "fragment": "sugar-rush rainbow pop — bold stripes, smiley stickers, bubble letters and confetti",
+    "structure": "plate",
+    "cap": "none",
+    "wear": 0.05,
+    "material": "flat saturated colour fields, glossy plastic sheen, crisp bands, no grain",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Sticker Book",
+    "fragment": "glossy sticker-book art — die-cut shapes, thick white borders and shiny laminate shine",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.1,
+    "material": "matte paper stock, die-cut white borders, slight peel curl, print dot texture",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Candy Glass",
+    "fragment": "a glossy candy-glass look — translucent jellies, glassy highlights and bubbly 3D buttons",
+    "structure": "slab",
+    "cap": "none",
+    "wear": 0.05,
+    "material": "translucent boiled sugar, internal bubbles, refracted colour, wet glassy highlights",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Pastel Goth",
+    "fragment": "pastel goth — soft lavenders and blacks, cute skulls, little bats and dreamy melancholy",
+    "structure": "brick",
+    "cap": "none",
+    "wear": 0.35,
+    "material": "chalky pastel wash over dark stone, faint lace shadow, powdery bloom",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Toy Box",
+    "fragment": "a plastic toy-box world — shiny action figures, toy cars and bright moulded playsets",
+    "structure": "plate",
+    "cap": "none",
+    "wear": 0.15,
+    "material": "injection-moulded plastic, mould seam lines, scuffed gloss, primary colour blocks",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Lego Bricks",
+    "fragment": "a chunky plastic-brick world — studded bricks, minifig hands and glossy primary colors",
+    "structure": "brick",
+    "cap": "none",
+    "wear": 0.05,
+    "material": "ABS plastic sheen, crisp stud shadow, mould flow marks, flat saturated colour",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Felt & Pom-Pom",
+    "fragment": "a handmade felt and pom-pom world — fuzzy textures, stitched edges and craft-table charm",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.25,
+    "material": "fuzzy felt nap, loose fibres, hand-stitched edge, soft matte dye",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Honey Hive",
+    "fragment": "inside a honey hive — hexagon combs, amber glow, busy bees and dripping gold",
+    "structure": "hex",
+    "cap": "none",
+    "wear": 0.25,
+    "material": "waxy comb sheen, translucent amber pooling, drip trails, warm glow",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Ninja Dojo",
+    "fragment": "feudal-Japan ninja style — ink-wash skies, paper lanterns, cherry blossom and swift shadows",
+    "structure": "plank",
+    "cap": "none",
+    "wear": 0.3,
+    "material": "woven tatami rush, dark cloth binding, worn footpaths, matte lacquer",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Ukiyo-e",
+    "fragment": "a japanese woodblock ukiyo-e print — flat color, great waves, distant peaks and elegant linework",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.3,
+    "material": "woodblock ink grain, visible paper fibre, flat colour blocks, faint registration offset",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Wild West",
+    "fragment": "a dusty wild-west frontier — cacti, tumbleweed, saloon fonts and high-noon standoffs",
+    "structure": "plank",
+    "cap": "none",
+    "wear": 0.7,
+    "material": "sun-bleached timber, deep splits, dust in the grain, iron nail stains",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Ancient Egypt",
+    "fragment": "ancient Egypt — golden sands, hieroglyphs, scarabs and torch-lit pyramid chambers",
+    "structure": "slab",
+    "cap": "none",
+    "wear": 0.6,
+    "material": "wind-scoured sandstone, carved hieroglyph relief, ochre dust, chipped edges",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Greek Myth",
+    "fragment": "greek mythology — marble columns, olive wreaths, thunderbolts and heroic friezes",
+    "structure": "slab",
+    "cap": "none",
+    "wear": 0.35,
+    "material": "veined marble, polished then weathered, chipped fluting, cool white sheen",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Pirate Seas",
+    "fragment": "high-seas piracy — treasure maps, galleons, parrots and cannon smoke over turquoise water",
+    "structure": "plank",
+    "cap": "moss",
+    "wear": 0.6,
+    "material": "salt-bleached deck planks, tar-filled seams, rope scuff, damp sheen",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Skeleton Fiesta",
+    "fragment": "a day-of-the-dead fiesta — sugar skulls, marigolds, papel picado and joyful skeletons",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.2,
+    "material": "cut tissue paper, punched patterns, layered colour, marigold dust",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Lantern Festival",
+    "fragment": "a lantern festival night — red and gold lanterns, fireworks and paper dragons",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.25,
+    "material": "red rice paper, bamboo rib shadow, gold leaf flecks, warm backlight",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Night Market",
+    "fragment": "a neon night market — steaming noodle stalls, paper lanterns and rain-wet streets",
+    "structure": "cracked",
+    "cap": "none",
+    "wear": 0.55,
+    "material": "wet asphalt sheen, neon spill in puddles, scattered grit, oil rainbow",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Aztec Empire",
+    "fragment": "the aztec empire — stepped temples, jade masks, carved sun-stones and feathered serpents",
+    "structure": "brick",
+    "cap": "moss",
+    "wear": 0.65,
+    "material": "carved volcanic stone, deep glyph relief, moss in the cuts, sun-bleached faces",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "High Fantasy",
+    "fragment": "storybook high fantasy — castles, potions, runes and a touch of friendly magic",
+    "structure": "brick",
+    "cap": "moss",
+    "wear": 0.45,
+    "material": "cut castle stone, mortar bloom, lichen patches, torch soot",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Dragon’s Hoard",
+    "fragment": "a dragon’s treasure lair — mountains of gold, glittering scales and firelit caverns",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.3,
+    "material": "heaped gold coins, scratched relief, warm reflected glow, dark gaps between",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Elven Forest",
+    "fragment": "an elven woodland realm — silver leaves, glowing runes and moonlight through ancient trees",
+    "structure": "grain",
+    "cap": "moss",
+    "wear": 0.3,
+    "material": "living bark, silver lichen, carved leaf relief, soft moss in the grooves",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Fairy Glade",
+    "fragment": "a tiny fairy glade — toadstool rings, drifting sparkles, dewdrops and soft golden light",
+    "structure": "grain",
+    "cap": "moss",
+    "wear": 0.25,
+    "material": "deep moss pile, tiny toadstools, dew beads, dappled light",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Knight’s Quest",
+    "fragment": "a heroic medieval quest — banners, stone castles, shining armour and noble crests",
+    "structure": "plate",
+    "cap": "none",
+    "wear": 0.5,
+    "material": "hammered steel plate, rivet heads, oil sheen, battle scoring",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Wizard’s Tower",
+    "fragment": "a wizard’s study — towering spellbooks, crystal balls, bubbling potions and arcane glow",
+    "structure": "slab",
+    "cap": "moss",
+    "wear": 0.45,
+    "material": "old arcane stone, faintly glowing rune cuts, candle wax runs, dust",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Jade Dynasty",
+    "fragment": "an eastern fantasy — jade dragons, misty mountains, temple roofs and floating lanterns",
+    "structure": "slab",
+    "cap": "none",
+    "wear": 0.2,
+    "material": "polished jade, cloudy internal veining, silk sheen, carved cloud relief",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Dark Fantasy",
+    "fragment": "grim dark fantasy — ashen ruins, broken cathedrals, cursed knights and looming bosses",
+    "structure": "cracked",
+    "cap": "moss",
+    "wear": 0.7,
+    "material": "blackened stone, ash dust, deep cracks, dried blood in the seams",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Unicorn Meadow",
+    "fragment": "a pastel unicorn meadow — rainbow manes, flower fields, butterflies and sparkle trails",
+    "structure": "grain",
+    "cap": "grass",
+    "wear": 0.15,
+    "material": "soft meadow grass, tiny wildflowers, iridescent dew, pastel light",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Fairy Tale",
+    "fragment": "a classic fairy-tale world — enchanted forests, magic lamps, talking animals and storybook charm",
+    "structure": "brick",
+    "cap": "grass",
+    "wear": 0.3,
+    "material": "storybook brick, painted mortar, ivy tendrils, warm cottage glow",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Space Opera",
+    "fragment": "an epic space opera — starfields, nebulae, sleek ships and dramatic cosmic scale",
+    "structure": "plate",
+    "cap": "none",
+    "wear": 0.35,
+    "material": "brushed hull alloy, panel rivets, scorch streaks, cool rim light",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Cyberpunk",
+    "fragment": "rain-slicked cyberpunk — holographic ads, towering neon signs, chrome and endless neon-lit megacity",
+    "structure": "cracked",
+    "cap": "none",
+    "wear": 0.6,
+    "material": "wet cracked concrete, neon reflection, spray tags, oil sheen",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Space Station",
+    "fragment": "a clean sci-fi station — white corridors, holo-panels, airlocks and a big blue planet",
+    "structure": "plate",
+    "cap": "none",
+    "wear": 0.25,
+    "material": "clean composite panel, recessed seams, status decals, matte white",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Area 51",
+    "fragment": "retro UFO conspiracy — little green men, radar dishes, redacted files and saucer beams",
+    "structure": "plate",
+    "cap": "none",
+    "wear": 0.5,
+    "material": "poured concrete, stencilled warnings, tyre scuff, desert dust",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Alien Jungle",
+    "fragment": "an alien jungle — impossible flora, two moons, bioluminescent vines and strange birdsong",
+    "structure": "grain",
+    "cap": "moss",
+    "wear": 0.35,
+    "material": "pulsing organic membrane, bioluminescent veins, wet chitin, spore dust",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Hologram",
+    "fragment": "a translucent blue hologram — flickering scanlines, edge glow and projected-light shimmer",
+    "structure": "dot-matrix",
+    "cap": "none",
+    "wear": 0.1,
+    "material": "scanline shimmer, additive glow, chromatic fringe, translucent falloff",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Robot Factory",
+    "fragment": "a clanking robot factory — conveyor belts, warning stripes, sparks and hydraulic pistons",
+    "structure": "plate",
+    "cap": "none",
+    "wear": 0.55,
+    "material": "oiled steel plate, hex bolts, swarf and shavings, warning-yellow scuff",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Mad Science",
+    "fragment": "a mad scientist’s lab — bubbling test tubes, tesla coils, blueprints and green goo",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.35,
+    "material": "glazed lab tile, chemical stains, hairline crazing, cold fluorescent sheen",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Neon Wireframe City",
+    "fragment": "a neon wireframe metropolis — glowing skyscraper outlines against a black grid sky",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.05,
+    "material": "black void, glowing vector lines, additive bloom, no surface at all",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Solar Punk",
+    "fragment": "bright solarpunk — lush greenery, white architecture, stained glass and hopeful sunlight",
+    "structure": "hex",
+    "cap": "grass",
+    "wear": 0.2,
+    "material": "woven plant fibre over pale ceramic, solar cell sheen, fresh green shoots",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Gothic Vampire",
+    "fragment": "dark gothic horror — crimson and black, candlelight, bats, cathedral arches and shadows",
+    "structure": "brick",
+    "cap": "moss",
+    "wear": 0.6,
+    "material": "cold cathedral stone, candle soot, cobweb, damp bloom",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Spooky Halloween",
+    "fragment": "playful halloween — pumpkins, cobwebs, friendly ghosts and a big harvest moon",
+    "structure": "cracked",
+    "cap": "grass",
+    "wear": 0.6,
+    "material": "cracked graveyard earth, dead leaves, pumpkin pulp, cold mist",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Noir Detective",
+    "fragment": "black-and-white film noir — rain, fedoras, venetian-blind shadows and one red accent",
+    "structure": "slab",
+    "cap": "none",
+    "wear": 0.5,
+    "material": "rain-slick pavement, streetlight glare, cigarette ash, deep shadow",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Foggy Harbor",
+    "fragment": "a misty harbor town — lighthouses, fog horns, lanterns and weathered wooden piers",
+    "structure": "plank",
+    "cap": "moss",
+    "wear": 0.65,
+    "material": "waterlogged dock timber, barnacle crust, green algae, salt bloom",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Tarot Card",
+    "fragment": "ornate tarot-card art — gilded borders, mystic symbols and rich jewel tones",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.25,
+    "material": "gilt card stock, embossed line work, foil flecks, aged varnish",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Inkblot Mono",
+    "fragment": "high-contrast inkblot — pure black shapes on white, Rorschach symmetry and bold negative space",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.4,
+    "material": "wet india ink on paper, bleeding edges, brush texture, pure black and white",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Mad Desert",
+    "fragment": "a post-apocalyptic desert — rust, chrome, dust storms and jury-rigged machines",
+    "structure": "cracked",
+    "cap": "none",
+    "wear": 0.75,
+    "material": "cracked desert hardpan, curling plates, bleached bone dust, heat shimmer",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Glitch Art",
+    "fragment": "digital glitch art — datamosh tearing, RGB split, scanline corruption and pixel sorting",
+    "structure": "dot-matrix",
+    "cap": "none",
+    "wear": 0.3,
+    "material": "corrupted colour blocks, datamosh smear, scanline tear, chromatic split",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "X-Ray",
+    "fragment": "x-ray vision — glowing white skeletons and silhouettes on deep blue-black film",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.2,
+    "material": "radiographic film grain, bone density gradients, blue-black falloff, no colour",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Thermal Vision",
+    "fragment": "a thermal-camera heatmap — blazing reds, cool blues and an infrared glow",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.15,
+    "material": "false-colour heat gradient, soft blooming edges, sensor noise, no detail lines",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Deep Ocean",
+    "fragment": "a glowing underwater world — bubbles, coral, bioluminescent fish in deep blue water",
+    "structure": "slab",
+    "cap": "moss",
+    "wear": 0.35,
+    "material": "waterlogged stone, coral crust, bioluminescent spots, drifting silt",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Lava Caverns",
+    "fragment": "a molten underworld — glowing lava flows, obsidian rock and embers drifting through heat",
+    "structure": "ridged",
+    "cap": "none",
+    "wear": 0.6,
+    "material": "black obsidian crust, glowing molten fissures, ash dust, heat glow",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Frozen Tundra",
+    "fragment": "a glittering frozen world — ice crystals, auroras, snow drifts and frosty blues",
+    "structure": "cracked",
+    "cap": "snow",
+    "wear": 0.4,
+    "material": "translucent ice, hairline internal cracks, frosted seams, bright specular edge on each block",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Tropical Island",
+    "fragment": "a sunny tropical island — palm trees, coconuts, steel drums and postcard sunsets",
+    "structure": "grain",
+    "cap": "grass",
+    "wear": 0.3,
+    "material": "warm dry sand, shell fragments, salt crust, sun glare",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Dino Jungle",
+    "fragment": "a prehistoric jungle — giant ferns, volcanoes, friendly dinosaurs and amber light",
+    "structure": "grain",
+    "cap": "moss",
+    "wear": 0.45,
+    "material": "trampled leaf litter, wet mud, thick roots, humid sheen",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Autumn Woods",
+    "fragment": "a cosy autumn forest — falling leaves, mushrooms, lanterns and golden afternoon light",
+    "structure": "grain",
+    "cap": "moss",
+    "wear": 0.5,
+    "material": "weathered wood grain, fallen leaves, moss in the cracks, golden light",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Mushroom Hollow",
+    "fragment": "a glowing mushroom forest — giant toadstools, spores drifting like fireflies, mossy light",
+    "structure": "grain",
+    "cap": "moss",
+    "wear": 0.3,
+    "material": "damp fungal flesh, gill ridges, spore dust, soft glow",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Neon Aquarium",
+    "fragment": "a glowing neon aquarium — black water, electric jellyfish and bioluminescent trails",
+    "structure": "slab",
+    "cap": "none",
+    "wear": 0.15,
+    "material": "wet tank glass, algae film, refracted light caustics, deep blue",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Moonlit Dream",
+    "fragment": "a dreamy moonlit night — soft stars, sleepy clouds, lullaby purples and a gentle glow",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.2,
+    "material": "soft silvered surface, faint star dust, cool haze, no hard edge",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Stained Glass",
+    "fragment": "luminous stained-glass cathedral art — bold lead lines, jewel-bright glass panels and god-rays",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.15,
+    "material": "coloured glass panes, dark lead came, light bleeding through, glossy",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Neon Synthwave",
+    "fragment": "1980s synthwave — neon grids, magenta sunsets, chrome text and an endless retro horizon",
+    "structure": "plate",
+    "cap": "none",
+    "wear": 0.1,
+    "material": "chrome sheen, magenta and cyan gradient, glow bloom, mirror-flat",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Vaporwave Plaza",
+    "fragment": "vaporwave — marble busts, checkerboard floors and palm sunsets in teal and pink",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.2,
+    "material": "polished marble tile, pastel wash, dust motes, soft mall lighting",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Synth Grid",
+    "fragment": "an endless synth grid — a glowing wireframe floor, a distant sun and a chrome horizon",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.05,
+    "material": "black void, glowing grid lines, horizon bloom, perfect flatness",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Neon Outline",
+    "fragment": "glowing neon-tube outlines on pure black — electric wireframes humming in the dark",
+    "structure": "slab",
+    "cap": "none",
+    "wear": 0.1,
+    "material": "dark ground, single bright outline stroke, additive glow, no interior detail",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "90s VHS",
+    "fragment": "fuzzy 90s VHS — tracking lines, timestamp overlays, camcorder grain and radical neon spandex",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.5,
+    "material": "tape noise, chroma bleed, tracking lines, soft analogue blur",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Disco Fever",
+    "fragment": "70s disco — mirrorballs, gold glitter, funky gradients and dance-floor tiles",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.2,
+    "material": "mirrored tile, reflected coloured light, smudged fingerprints, glossy",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Steampunk Brass",
+    "fragment": "victorian steampunk — brass gears, copper pipes, steam gauges and airship silhouettes",
+    "structure": "plate",
+    "cap": "rust",
+    "wear": 0.65,
+    "material": "aged brass, rivet lines, verdigris in crevices, oil sheen",
+    "restyle": true,
+    "palette": "steam-lords"
+  },
+  {
+    "name": "Clockwork World",
+    "fragment": "inside a giant clock — ticking gears, pendulums, roman numerals and warm brass light",
+    "structure": "hex",
+    "cap": "rust",
+    "wear": 0.5,
+    "material": "machined gear teeth, brass filings, oil film, worn contact faces",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Neon Graffiti",
+    "fragment": "spray-can graffiti — drippy throw-ups, brick walls and fat fluorescent tags",
+    "structure": "cracked",
+    "cap": "none",
+    "wear": 0.6,
+    "material": "rough concrete, layered spray paint, drips, faded tags underneath",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Art Deco",
+    "fragment": "roaring-twenties art deco — gold geometric fans, symmetrical sunbursts, chevrons",
+    "structure": "hex",
+    "cap": "none",
+    "wear": 0.15,
+    "material": "inlaid brass on black lacquer, sunburst lines, polished sheen, crisp geometry",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "8-Bit Retro",
+    "fragment": "pure 8-bit arcade nostalgia — chunky pixels, primary colors, bleeps and bloops",
+    "structure": "dot-matrix",
+    "cap": "none",
+    "wear": 0.2,
+    "material": "hard pixel clusters, limited palette dithering, no gradients",
+    "restyle": false,
+    "palette": null
+  },
+  {
+    "name": "Pixel Noir",
+    "fragment": "moody pixel-art noir — a tight palette, dithered shadows and one lonely neon sign",
+    "structure": "dot-matrix",
+    "cap": "none",
+    "wear": 0.4,
+    "material": "hard pixel clusters, heavy dithered shadow, two-tone limited palette",
+    "restyle": false,
+    "palette": null
+  },
+  {
+    "name": "Gameboy Green",
+    "fragment": "four-shade Gameboy green — dot-matrix screen, chunky sprites and that handheld glow",
+    "structure": "dot-matrix",
+    "cap": "none",
+    "wear": 0.2,
+    "material": "four-shade dot matrix, ordered dithering, LCD grid, no colour",
+    "restyle": false,
+    "palette": "nintendo-gameboy-bgb"
+  },
+  {
+    "name": "CGA Retro",
+    "fragment": "a garish CGA palette — cyan, magenta, black and white in proud early-PC colors",
+    "structure": "dot-matrix",
+    "cap": "none",
+    "wear": 0.15,
+    "material": "four-colour hard dithering, chunky pixel blocks, harsh contrast",
+    "restyle": false,
+    "palette": null
+  },
+  {
+    "name": "Voxel Cube",
+    "fragment": "a blocky voxel world — tiny cubes stacked into characters, soft shadows and Minecraft soul",
+    "structure": "brick",
+    "cap": "grass",
+    "wear": 0.2,
+    "material": "flat-shaded cube faces, hard facet edges, no texture, blocky colour steps",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "PS1 Lo-Fi",
+    "fragment": "gritty early-3D PlayStation look — low-poly models, warping textures, dithered fog",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.5,
+    "material": "low-resolution texture, affine warping, colour banding, dithered gradient",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Terminal Green",
+    "fragment": "retro hacker terminal — green phosphor text, CRT glow, ASCII art and blinking cursors",
+    "structure": "dot-matrix",
+    "cap": "none",
+    "wear": 0.1,
+    "material": "phosphor glow on black, scanlines, single-hue monochrome, slight bloom",
+    "restyle": false,
+    "palette": null
+  },
+  {
+    "name": "Wireframe",
+    "fragment": "pure wireframe vector — glowing green vector lines on black, trench-run energy",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.05,
+    "material": "black ground, thin bright vector lines, no fill, no shading",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Low-Poly Pastel",
+    "fragment": "a calm low-poly world — faceted shapes in soft pastel gradients and flat shadows",
+    "structure": "plate",
+    "cap": "grass",
+    "wear": 0.15,
+    "material": "flat-shaded facets, soft pastel colour steps, hard polygon edges, no texture",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Isometric City",
+    "fragment": "a clean isometric diorama — tidy cubes, soft ambient occlusion and toy-like buildings",
+    "structure": "slab",
+    "cap": "none",
+    "wear": 0.3,
+    "material": "poured concrete slab, expansion joints, tyre marks, urban grime",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Halftone Print",
+    "fragment": "vintage halftone print — dotted newsprint shading, bold headlines and inky black-and-white",
+    "structure": "dot-matrix",
+    "cap": "none",
+    "wear": 0.25,
+    "material": "CMYK halftone dots, visible rosette, slight misregistration, paper white",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Skate Deck",
+    "fragment": "skateboard-deck graphics — bold screen-print art, grip-tape texture and street-brand swagger",
+    "structure": "plank",
+    "cap": "none",
+    "wear": 0.7,
+    "material": "worn maple ply, griptape scuff, deck chipping, sticker residue",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Sneaker Hype",
+    "fragment": "sneaker-drop hype art — punchy colorways, swooshing shapes, hype tags and box-fresh gloss",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.3,
+    "material": "rubber tread, mesh weave, suede nap, stitched panel seams",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Risograph",
+    "fragment": "riso-print art — grainy duotone spot colors, slightly misregistered layers and warm indie-zine feel",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.4,
+    "material": "grainy soy ink, limited spot colours, misregistration, paper tooth",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Memphis Design",
+    "fragment": "80s Memphis design — bold squiggles, confetti shapes, pastel blocks and playful geometry",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.15,
+    "material": "flat bold colour blocks, squiggle and dot confetti, no shading",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Stencil Street",
+    "fragment": "Banksy-style stencil street art — sharp spray-paint cut-outs, paint drips and bold shapes",
+    "structure": "cracked",
+    "cap": "none",
+    "wear": 0.6,
+    "material": "rough concrete, stencil overspray, layered paint, weathered edges",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Paper Cut-Out",
+    "fragment": "layered paper cut-out art — stacked construction-paper shapes, soft drop shadows",
+    "structure": "slab",
+    "cap": "none",
+    "wear": 0.15,
+    "material": "layered matte cardstock, cut edge shadow, slight fibre fray, flat colour",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Magazine Collage",
+    "fragment": "cut-and-paste magazine collage — torn paper edges, mixed-up typography, photo scraps",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.55,
+    "material": "torn magazine paper, halftone fragments, glue wrinkle, mixed print stock",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Blueprint",
+    "fragment": "a technical blueprint — crisp white line art on cyan, dashed guides, callouts and grids",
+    "structure": "checker",
+    "cap": "none",
+    "wear": 0.1,
+    "material": "cyanotype blue, white technical linework, paper fold creases, faint grid",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Coach’s Playbook",
+    "fragment": "a coach’s chalk playbook — Xs and Os, dotted run routes, whistles and clipboard",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.3,
+    "material": "green chalkboard, chalk dust, wiped smears, dashed white lines",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Pop-Art Comic",
+    "fragment": "pop-art comic book — halftone dots, bold outlines, BAM! POW! panels and primary colors",
+    "structure": "dot-matrix",
+    "cap": "none",
+    "wear": 0.2,
+    "material": "benday dots, bold black outline, flat primary fill, print misregistration",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Manga Screentone",
+    "fragment": "black-and-white manga — screentone shading, speed lines and big expressive eyes",
+    "structure": "dot-matrix",
+    "cap": "none",
+    "wear": 0.3,
+    "material": "adhesive screentone dots, hatched shadow, pure black and white, paper grain",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Saturday Cartoon",
+    "fragment": "a saturday-morning cartoon — thick outlines, squash-and-stretch and zany sound-effect text",
+    "structure": "plate",
+    "cap": "grass",
+    "wear": 0.2,
+    "material": "flat cel fill, thick black outline, simple shadow shape, no texture",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Superhero Comic",
+    "fragment": "a blockbuster superhero comic — caped heroes, city skylines, dynamic action poses",
+    "structure": "slab",
+    "cap": "none",
+    "wear": 0.35,
+    "material": "inked city concrete, cross-hatched shadow, flat colour fill, print dot",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Mecha Anime",
+    "fragment": "giant mecha anime — panel-lined robots, glowing thrusters, cockpit HUDs and missiles",
+    "structure": "plate",
+    "cap": "none",
+    "wear": 0.4,
+    "material": "panel-lined armour plate, decal stencils, scorch, hard specular edge",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Cel-Shaded Anime",
+    "fragment": "crisp cel-shaded anime — bold clean linework, flat color fills, hard-edged shadows",
+    "structure": "plate",
+    "cap": "grass",
+    "wear": 0.2,
+    "material": "flat colour fill, hard-edged shadow band, crisp linework, no grain",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Claymation",
+    "fragment": "handmade claymation — soft modelling-clay characters, visible thumbprints, squishy shapes",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.35,
+    "material": "soft modelling clay, visible thumbprints, uneven surface, matte finish",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Tabletop RPG",
+    "fragment": "hand-inked tabletop-RPG art — parchment maps, monster-manual ink drawings, dice",
+    "structure": "grain",
+    "cap": "none",
+    "wear": 0.45,
+    "material": "aged parchment, ink hatching, foxing stains, torn fibre edge",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Arcade",
+    "fragment": "classic arcade illustration — airbrushed cabinet side-art, bold marquee lettering, neon glow",
+    "structure": "plate",
+    "cap": "none",
+    "wear": 0.25,
+    "material": "airbrushed gradient, bold outline, cabinet vinyl sheen, halftone shading",
+    "restyle": true,
+    "palette": null
+  },
+  {
+    "name": "Kaiju Movie",
+    "fragment": "a rubber-suit kaiju movie — a towering monster, toppling models, smoke and fleeing crowds",
+    "structure": "cracked",
+    "cap": "none",
+    "wear": 0.7,
+    "material": "crushed concrete rubble, dust, rebar, model-set paint texture",
+    "restyle": true,
+    "palette": null
+  }
+]
